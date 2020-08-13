@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 543A-449E
-
- Directory of C:\Users\k.wanjare\Desktop\My Project
-
-08/13/2020  02:37 PM    <DIR>          .
-08/13/2020  02:37 PM    <DIR>          ..
-08/13/2020  02:37 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  406,773,202,944 bytes free
+changed
